@@ -1,3 +1,4 @@
+print("Hello world!")
 print(type("Hello, World!"))
 print(type("hello" == "world"))
 print(6/2.5)            # 2.4
